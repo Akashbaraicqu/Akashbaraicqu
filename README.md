@@ -1,17 +1,17 @@
 <html>
    <head>
-     #E-portfolio
+     <h1> #ePortfolio <h1>
   </head>
   <body>
-   <h1>communicational concepts and strategies</h1>
+   <h3>1. Cmmunicational concepts and strategies</h3>
     <img src="link">
-   <h2>show confidence and skills in oral communications and presentations</h2>
+   <h3> 2. Show confidence and skills in oral communications and presentations</h3>
      <img src="link">
-   <h3>work effectively as part of a team</h3>
+   <h3>3. Work effectively as part of a team</h3>
      <img src="link">
-   <h4>communicate effectively in a professional context</h4>
+   <h3>4. Communicate effectively in a professional context</h3>
      <img src="link">
-   <h5>define and demonstrate conflict management and resolution strategies</h5>
+   <h3>5. Define and demonstrate conflict management and resolution strategies</h3>
      <img src="link">
    </body>
    </html>
